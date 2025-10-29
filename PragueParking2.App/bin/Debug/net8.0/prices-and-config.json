@@ -1,0 +1,14 @@
+{
+  "spotCount": 100,
+  "spotCapacityUnits": 4,
+  "freeMinutes": 10,
+  "vehicleTypes": {
+    "CAR": 4,
+    "MC": 2
+  },
+  "hourlyRates": {
+    "CAR": 20,
+    "MC": 10
+  },
+  "#": "Allt efter # p\u00e5 en rad \u00e4r kommentar i denna fil \u2013 \u00e4ndra ovanf\u00f6r"
+}

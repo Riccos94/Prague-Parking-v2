@@ -1,0 +1,15 @@
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.AssemblyInfoInputs.cache
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.AssemblyInfo.cs
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.csproj.AssemblyReference.cache
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\bin\Debug\net8.0\PragueParking2.Data.deps.json
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\bin\Debug\net8.0\PragueParking2.Data.dll
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\bin\Debug\net8.0\PragueParking2.Data.pdb
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\bin\Debug\net8.0\PragueParking2.Core.dll
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\bin\Debug\net8.0\PragueParking2.Core.pdb
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PraguePa.BEA7811A.Up2Date
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.dll
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\refint\PragueParking2.Data.dll
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\PragueParking2.Data.pdb
+C:\Users\eriks\Downloads\PragueParkingV2\PragueParkingV2\PragueParking2.Data\obj\Debug\net8.0\ref\PragueParking2.Data.dll

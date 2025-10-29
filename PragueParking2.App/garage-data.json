@@ -1,0 +1,530 @@
+{
+  "spots": [
+    {
+      "number": 1,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 2,
+      "capacityUnits": 4,
+      "vehicles": [
+        {
+          "regNo": "ADS123",
+          "type": "MC",
+          "sizeUnits": 2,
+          "checkInUtc": "2025-10-28T13:11:59.0047976Z"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "capacityUnits": 4,
+      "vehicles": [
+        {
+          "regNo": "BCA123",
+          "type": "CAR",
+          "sizeUnits": 4,
+          "checkInUtc": "2025-10-28T12:44:57.5735709Z"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "capacityUnits": 4,
+      "vehicles": [
+        {
+          "regNo": "BCT123",
+          "type": "CAR",
+          "sizeUnits": 4,
+          "checkInUtc": "2025-10-28T12:47:00.883647Z"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 6,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 7,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 8,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 9,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 10,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 11,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 12,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 13,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 14,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 15,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 16,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 17,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 18,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 19,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 20,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 21,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 22,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 23,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 24,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 25,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 26,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 27,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 28,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 29,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 30,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 31,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 32,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 33,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 34,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 35,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 36,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 37,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 38,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 39,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 40,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 41,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 42,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 43,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 44,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 45,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 46,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 47,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 48,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 49,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 50,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 51,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 52,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 53,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 54,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 55,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 56,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 57,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 58,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 59,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 60,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 61,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 62,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 63,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 64,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 65,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 66,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 67,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 68,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 69,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 70,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 71,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 72,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 73,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 74,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 75,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 76,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 77,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 78,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 79,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 80,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 81,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 82,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 83,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 84,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 85,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 86,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 87,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 88,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 89,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 90,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 91,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 92,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 93,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 94,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 95,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 96,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 97,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 98,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 99,
+      "capacityUnits": 4,
+      "vehicles": []
+    },
+    {
+      "number": 100,
+      "capacityUnits": 4,
+      "vehicles": []
+    }
+  ],
+  "hourlyRates": {
+    "CAR": 25,
+    "MC": 10
+  },
+  "freeMinutes": 10
+}

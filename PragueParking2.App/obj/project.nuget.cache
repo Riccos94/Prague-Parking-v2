@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "yoJe6o0LQZs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eriks\\Downloads\\PragueParkingV2\\PragueParkingV2\\PragueParking2.App\\PragueParking2.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eriks\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\eriks\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "PragueParking2.App depends on Spectre.Console (>= 0.47.1) but Spectre.Console 0.47.1 was not found. Spectre.Console 0.48.0 was resolved instead.",
+      "projectPath": "C:\\Users\\eriks\\Downloads\\PragueParkingV2\\PragueParkingV2\\PragueParking2.App\\PragueParking2.App.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\eriks\\Downloads\\PragueParkingV2\\PragueParkingV2\\PragueParking2.App\\PragueParking2.App.csproj",
+      "libraryId": "Spectre.Console",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
